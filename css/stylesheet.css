@@ -396,7 +396,7 @@ header nav ul li i {
 /* Start Hik */
 .hik {
     margin: 100px 0 80px;
-    background-image: url(/images/right-tree.png);
+    background-image: url(../images/right-tree.png);
     background-position: center left;
     background-repeat: no-repeat;
     padding: 200px 0;
@@ -432,7 +432,7 @@ header nav ul li i {
 /* End Hik */
 /* Start Explore */
 .explore {
-    background-image: url(/images/climbing.jpg);
+    background-image: url(../images/climbing.jpg);
     background-size: cover;
     height: 100vh;
     text-align: right;
@@ -459,7 +459,7 @@ header nav ul li i {
 /* Start Story */
 .story {
     padding: 00px 0 50px;
-    background-image: url(/images/left-tree.png);
+    background-image: url(../images/left-tree.png);
     background-repeat: no-repeat;
     background-position: bottom right;
     position: relative;
@@ -523,7 +523,7 @@ header nav ul li i {
 /* End Story */
 /* Start Title */
 .title {
-    background-image: url(/images/title.jpg);
+    background-image: url(../images/title.jpg);
     background-size: cover;
     height: 80vh;
     display: flex;
@@ -584,7 +584,7 @@ header nav ul li i {
 /* End Title */
 /* Start Footer */
 footer {
-    background-image: url(/images/footer-img.jpg);
+    background-image: url(../images/footer-img.jpg);
     background-size: cover;
     padding: 250px var(--main-padding) 150px;
     display: grid;
